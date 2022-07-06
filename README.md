@@ -1,5 +1,4 @@
-# Shopping-Website
-Basic User Authentication System from scratch using Nodejs and Express.
+# Basic User Authentication System from scratch using Nodejs and Express.
 
 This project provides Authentication services to the user by providing Signup/Register and Login/Logout APIs. It has various layers of authorization and authentication to
 provide maximum possible security. This complete project doesn’t use any Auth Libraries like Passport, JWT etc or any OAuth services. So, all the APIs are constructed 
